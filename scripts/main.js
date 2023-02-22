@@ -1,4 +1,4 @@
-const filePath = "/textures/font.png";
+const filePath = "textures/font.png";
 console.log(filePath);
 
 const img = new Image();
